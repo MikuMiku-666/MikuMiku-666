@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-&zwnj;**👋 Hi there! I'm Zheyan Li**&zwnj; (李哲彦)  
+&zwnj;**👋 Hi there!**&zwnj; 
 🎓 &zwnj;**CS Undergrad**&zwnj; @ [Xiamen University](https://www.xmu.edu.cn/)  
 🏫 &zwnj;**School of Information Science and Engineering**&zwnj;  
 💻 &zwnj;**Majoring in Computer Science & Technology**&zwnj;  
